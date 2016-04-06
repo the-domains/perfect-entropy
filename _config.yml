@@ -1,0 +1,28 @@
+name: Perfect Entropy
+favicon: null
+layout_spectrum: 0.009443484712392092
+typography_spectrum: 0.2965008281171322
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7809558035805821
+  lightness: 0.5167399880010635
+  saturation: 0.017070969101041555
+  rhythmicContrast: 0.7218251614831388
+purpose: []
